@@ -1,4 +1,4 @@
-name = "auror-research-worker"
+name = "auror2-integracion-ia"
 main = "index.ts"
 compatibility_date = "2026-05-17"
 compatibility_flags = ["nodejs_compat"]
