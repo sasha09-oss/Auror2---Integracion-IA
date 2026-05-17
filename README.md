@@ -6,7 +6,6 @@ Cloudflare Workers + Workers AI en el edge.
 ---
 
 ## Flujo de la plataforma Auror
-
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                        USUARIO EN LA WEBAPP                            │
