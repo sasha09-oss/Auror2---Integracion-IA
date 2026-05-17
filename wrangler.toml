@@ -1,5 +1,5 @@
 name = "auror-research-worker"
-main = "src/index.ts"
+main = "index.ts"
 compatibility_date = "2026-05-17"
 compatibility_flags = ["nodejs_compat"]
 
